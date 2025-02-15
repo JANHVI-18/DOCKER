@@ -17,6 +17,14 @@ Streamlit: Framework for building data-centric web applications.
 MySQL / PostgreSQL: Relational databases used in some experiments.
 Evidently AI: Tool for monitoring machine learning models in production.
 
+📚 Resources to Learn Docker
+If you're new to Docker, here are some recommended resources:
+
+Docker Official Documentation: https://docs.docker.com/
+Docker for Beginners: https://docker-curriculum.com/
+Docker Compose Documentation: https://docs.docker.com/compose/
+Docker: Up & Running: A book that provides a thorough guide to Docker.
+
 
 ##🔨 Installation
 To get started with the experiments in this repository, follow these simple installation steps:
