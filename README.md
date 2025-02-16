@@ -41,25 +41,7 @@ Ensure you have the following installed:
 - **🔧 Docker Compose**
 - **💻 Git**
 
-### 2️⃣ **Clone the Repository**:
-```bash
-git clone https://github.com/your-repository/dockify.git  
-cd dockify
-### 3️⃣ **Run a Sample Experiment**:
-```bash
-docker-compose up --build
-## 📂 **Project Structure**:
-```bash
-Dockify/  
-│-- experiments/  
-│   ├── web-app/         # Streamlit applications  
-│   ├── db-integrations/ # Database experiments  
-│   ├── ml-monitoring/   # ML model monitoring  
-│-- docker-compose.yml   # Multi-container configurations  
-│-- Dockerfile           # Base Docker setup  
-│-- README.md            # Documentation  
 ## 🔍 **Featured Projects**:
-
 - **📊 Streamlit Web App**: A containerized environment for **interactive data visualization**.
 - **💡 Titanic Survival Predictor**: Deploy an **ML-powered prediction app** using Streamlit.
 - **🗃️ MySQL in Docker**: Efficient, persistent **database management** in Docker.
