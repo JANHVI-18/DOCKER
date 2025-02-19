@@ -1,6 +1,3 @@
-Sure! Here's an enhanced version of your documentation with added clarity, structure, and more emphasis on the steps and contributions. I've also highlighted some areas for better understanding and usage:
-
----
 
 # 🌟 **Streamlit Spiral Visualization App with Docker**
 
@@ -265,7 +262,3 @@ streamlit
 altair
 pandas
 ```
-
----
-
-This enhanced version includes clearer steps, explanations, and added details for troubleshooting and contributing, along with a refined structure for readability.
