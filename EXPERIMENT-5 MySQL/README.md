@@ -68,8 +68,7 @@ Docker_Practices/
 
 ---
 
-## 🔗 Repository Link  
-🔗 **GitHub Repository:** [Aditya5757raj/Docker_Practices](https://github.com/Aditya5757raj/Docker_Practices)  
+
 
 ---
 
