@@ -122,17 +122,6 @@ cat app.log
 docker volume inspect my-app-data
 ```
 
----
-
-## 🪚 Results
-
-Here are sample terminal outputs showing logging details:
-
-**Image 1**: Container Logs in Real-time  
-![Logging in Terminal](https://via.placeholder.com/800x400)
-
-**Image 2**: Viewing Log File from Docker Volume  
-![Log File Content Docker Desktop](https://via.placeholder.com/800x400)
 
 ---
 
