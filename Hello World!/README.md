@@ -1,7 +1,7 @@
 
 # Hello World in Docker 🌍🚀
 
-![Hello World Docker](https://image.shutterstock.com/image-vector/docker-logo-icon-symbol-illustration-260nw-1816593893.jpg)
+![Hello World Docker](https://github.com/JANHVI-18/DOCKER/blob/main/Hello%20World!/Screenshot%202025-03-28%20232421.png)
 
 This guide will walk you through deploying a simple **Hello World!** application in Python using **Docker**. We'll create a `Dockerfile`, build the Docker image, and run it as a container. Let's get started! 🎉
 
