@@ -1,6 +1,4 @@
-Here's the enhanced version of your **Streamlit App with PostgreSQL using Docker** project:
 
----
 
 # 🚀 Streamlit App with PostgreSQL using Docker
 
