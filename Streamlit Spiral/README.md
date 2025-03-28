@@ -1,6 +1,7 @@
 # 🌈✨ Streamlit Spiral Visualization App with Docker
 
-![Streamlit Spiral Visualization](https://via.placeholder.com/800x400)
+
+![Dashboard Preview](https://github.com/JANHVI-18/Project-Streamlit_Dashboard/blob/main/Streamlit_dashboard%20(2).png)
 
 🌟 Welcome to the **Streamlit Spiral Visualization App**! This project demonstrates a simple and interactive Python application built with Streamlit to visualize a spiral. You can customize the spiral’s characteristics using adjustable sliders and view the changes in real-time. The app is Dockerized for easy deployment and consistency across environments.
 
