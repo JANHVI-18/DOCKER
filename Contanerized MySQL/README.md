@@ -66,7 +66,7 @@ docker rm mysql-container
 
 Once the container is running, you can check the database result using the following image:
 
-![Database Result](https://via.placeholder.com/800x400)
+![Database Result](https://github.com/JANHVI-18/DOCKER/blob/main/Contanerized%20MySQL/Screenshot%202025-03-28%20232808.png)
 
 ## 📂 Project Structure
 
@@ -82,9 +82,6 @@ Docker_Practices/
 - The `database.sql` file will be executed only on the first run to initialize the database.
 - The root password is set to `root`. For security, change this in a production environment.
 
-## 🔗 Repository Link
-
-GitHub: [JanhviJaiswal/Docker_Practices](https://github.com/JanhviJaiswal/Docker_Practices)
 
 ## 📜 License
 
