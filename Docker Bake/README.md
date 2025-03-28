@@ -114,7 +114,7 @@ This command will:
 
 Once the images are pushed, visit your Docker Hub repository to verify:
 
-[**Docker Hub Repository**](https://hub.docker.com/repository/docker/aditya5757/python-bakery/general)
+
 
 You should see your multi-architecture images listed under **Tags**:
 
@@ -125,12 +125,11 @@ You should see your multi-architecture images listed under **Tags**:
 
 ## 📸 **Result Screenshots**
 
-1. **Docker Hub Repository**  
-   ![Docker Hub Repository Screenshot](https://via.placeholder.com/800x400)  
-   *This screenshot shows the images available in your Docker Hub repository.*
 
-2. **Multi-Architecture Tags**  
-   ![Multi-Architecture Tags Screenshot](https://via.placeholder.com/800x400)  
+   
+
+1. **Multi-Architecture Tags**  
+   ![Multi-Architecture Tags Screenshot](https://github.com/JANHVI-18/DOCKER/blob/main/Docker%20Bake/Screenshot%202025-03-28%20150518.png)  
    *Here’s a glimpse of the architecture tags for your images.*
 
 ---
