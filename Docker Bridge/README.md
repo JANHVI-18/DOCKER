@@ -123,7 +123,10 @@ This experiment showcases Docker’s powerful networking features, particularly 
 
 Here’s a screenshot of the experiment in action:
 
-![Docker Network Test](https://via.placeholder.com/800x400)
+![Docker Network Test](https://github.com/JANHVI-18/DOCKER/blob/main/Docker%20Bridge/Screenshot%202025-02-15%20185412.png)
+
+![Docker Network Test](https://github.com/JANHVI-18/DOCKER/blob/main/Docker%20Bridge/Screenshot%202025-02-15%20185628.png)
+
 
 ✅ **The image above** demonstrates successful communication between containers using `ping`, confirming the proper setup of the custom bridge network. 🏆
 
