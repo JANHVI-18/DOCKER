@@ -1,8 +1,7 @@
-Here’s a customized README for your MySQL Docker Container project, using your repository link:
 
----
 
 # 🐳 MySQL Docker Container
+![mysql](https://github.com/JANHVI-18/DOCKER/blob/main/Contanerized%20MySQL/Screenshot%202025-03-28%20232808.png)
 
 This repository contains a Docker setup for running a MySQL container with an initial database setup.
 
