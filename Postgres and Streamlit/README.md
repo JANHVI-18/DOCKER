@@ -2,6 +2,8 @@
 
 # 🚀 Streamlit App with PostgreSQL using Docker
 
+![Docker Network Test](https://github.com/JANHVI-18/DOCKER/blob/main/Postgres%20and%20Streamlit/Screenshot%202025-03-28%20233741.png)
+
 This project demonstrates how to set up a **Streamlit** application that connects to a **PostgreSQL** database using **Docker**. You'll create a custom Docker network, launch a PostgreSQL container, insert dummy data, and deploy a Streamlit app to visualize the data.
 
 ---
