@@ -1,8 +1,8 @@
 # 🌟🍄 Docker Experiment 2: Binary Classification WebApp with Streamlit  
 
-![Binary Classification WebApp](https://via.placeholder.com/800x400)
+![ Binary Classification Webpage](https://github.com/JANHVI-18/Binary-Classification-Webpage/blob/main/Binary-Classification-webpage.png)  
 
-🚀 Welcome to **Docker Experiment 2!** This project demonstrates the power of Docker to containerize a machine learning web application built using Streamlit. The app classifies mushrooms as either **edible or poisonous** based on input features, utilizing machine learning classifiers.
+🚀 Welcome to **Docker Experiment ** This project demonstrates the power of Docker to containerize a machine learning web application built using Streamlit. The app classifies mushrooms as either **edible or poisonous** based on input features, utilizing machine learning classifiers.
 
 ---
 
@@ -82,7 +82,7 @@ Your app will be available at: **http://localhost:8501** 🌐
 
 Here is a sample result from the classification output:  
 
-![Binary Classification WebApp](https://via.placeholder.com/800x400)
+![ Binary Classification Webpage](https://github.com/JANHVI-18/Binary-Classification-Webpage/blob/main/Binary-Classification-webpage.png)  
 
 ---
 
