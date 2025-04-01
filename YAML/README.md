@@ -139,7 +139,7 @@ Name: Eva, Age: 21, Major: Computer Science, GPA: 3.7
 ```
 
 ### 📸 Output Screenshot
-![Output Screenshot](https://via.placeholder.com/800x400?text=Output+Screenshot)
+![Output Screenshot](https://github.com/JANHVI-18/DOCKER/blob/main/YAML/Screenshot%202025-04-01%20162107.png)
 
 ---
 
