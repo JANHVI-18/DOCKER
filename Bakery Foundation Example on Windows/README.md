@@ -2,6 +2,7 @@
 
 
 ### 🏠 **Bakery Foundation Example on Windows** 🍞
+![Hello World Docker](https://github.com/JANHVI-18/DOCKER/blob/main/Bakery%20Foundation%20Example%20on%20Windows/Screenshot%202025-04-22%20211618.png)
 
 #### **Overview**
 This guide will walk you through setting up and using **Packer** to create a machine image (AMI) on AWS. It includes installation, configuration, and deployment on a Windows system. Let’s bake some awesome images together! 🧑‍🍳🔥
