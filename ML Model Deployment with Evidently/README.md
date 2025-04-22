@@ -69,7 +69,7 @@ Once the container is up and running, open **[http://localhost:8501](http://loca
 
 Here’s an example of the Streamlit dashboard output:
 
-![Streamlit Dashboard Example](https://via.placeholder.com/800x400)  
+  
 *Example: Dashboard showing real-time ML metrics.*
 
 ✅ **The Streamlit dashboard** provides an intuitive interface to monitor your ML model’s health and performance!
